@@ -22,7 +22,7 @@
         }
 
         header {
-            background-color: #007bff;
+            background-color: #cb6ce6;
             padding: 10px 0;
             color: #fff;
             text-align: center;
@@ -33,7 +33,7 @@
         }
 
         footer {
-            background-color: #007bff;
+            background-color: #cb6ce6;
             padding: 10px 0;
             color: #fff;
             text-align: center;
@@ -58,7 +58,8 @@
 </nav>
 
     <section>
-        <div class="container">
+        <div class="hero-container">
+        <div class="column-left">
             <h2>OÜ Kehamaalingud</h2>
             <p>Tere tulemast meie veebilehele, kus kunst ja keha sulavad ühte, luues unustamatuid hetki ja väljendusi läbi kehamaalingute ja sädelevate tatoveeringute! Oleme pühendunud sellele, et tuua teie kehale elu ja värvi ning muuta iga hetk eriliseks.
 Meie kunstnikud on kogenud ja kirglikud professionaalid, kes on spetsialiseerunud erinevatele stiilidele ja lähenemisviisidele. Olgu tegemist delikaatsete lilledega, julgete geomeetriliste mustritega või sädelevate elementidega, meie meeskond suudab rahuldada ka kõige unikaalsemaid maitseid ja soove.
@@ -72,6 +73,9 @@ Liituge meiega laste lõbu ja naeru maailmas ning laske meil tuua lisavärv ja s
 
 
 </p>
+        </div>
+        <div class="column-right">
+            <img src="./logo.png" alt="kehamaalingute logo">
         </div>
     </section>
 
