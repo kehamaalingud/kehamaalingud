@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Tegeleme Tallinnas glitter tattoode maalimisega.">
     <meta name="keywords" content="kehamaalingud, glitter tattoo, näomaalingud, laste pidu, laste sünnipäev, festival, näomaalingud Tallinnas, glitter tattoo tallinn, ">
-    <title>Your Website Title</title>
+    <title>Glitter tattoo</title>
 
     <!-- Bootstrap CSS -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
@@ -49,6 +49,13 @@
     <header>
         <h1>Glitter tattood</h1>
     </header>
+<nav>
+    <div class="nav-items">
+        <a href="/">Avaleht</a>
+        <a href="/">Teenused</a>
+        <a href="/">Kontakt</a>
+    </div>
+</nav>
 
     <section>
         <div class="container">
